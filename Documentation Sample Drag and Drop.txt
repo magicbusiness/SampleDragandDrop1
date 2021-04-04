@@ -1,0 +1,4 @@
+To use Drag and Drop
+1. Make item and place to drop the item (In this case the item is textView for Drag and Drop)
+2. Initialize variable and implement setOnLongClickListener and setOnDragListener
+3. Make sure you Implement Drag in another Widget and also same for Drop
